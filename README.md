@@ -1,5 +1,5 @@
 # <center>**Data Mining**<center>
-This repository serves as a focused resource for **Data Mining**, a critical subfield of **Data Science**. This repository was created by me to use when I need to review the basics. The documents in the folders are the assignments for each week in my school (SaiGon University).
+This repository serves as a focused resource for **Data Mining**, a critical subfield of **Data Science**. This repository was created by me to use when I need to review the basics. The documents in the folders are the assignments for each week in my school (Saigon University) given by [Dr. Đỗ Như Tài](https://scholar.google.com/citations?user=NbspUWcAAAAJ&hl=en).
 
 ![image](https://www.analytixlabs.co.in/wp-content/uploads/2024/03/5.jpg)
 
